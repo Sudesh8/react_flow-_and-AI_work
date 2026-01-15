@@ -6,7 +6,7 @@ The application combines a visual workflow (React Flow), a backend API (Flask), 
 
 ---
 
-## Why This Project
+## Purpose Of This Project
 
 The purpose of this project is to show:
 - How a frontend workflow diagram can represent logical decision paths
@@ -114,6 +114,7 @@ This makes workflows:
 - More intuitive for non-technical users
 
 It also mirrors real automation platforms used in enterprise environments.
+
 
 
 
