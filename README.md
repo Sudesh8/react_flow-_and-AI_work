@@ -31,6 +31,7 @@ This type of pattern is commonly used in security checks, approval flows, monito
 7. The result is shown back in the UI
 
 ---
+<img width="1912" height="950" alt="image" src="https://github.com/user-attachments/assets/85ac9f9f-2361-4b7f-a79d-6e4b976bd080" /> 
 
 ## Tech Stack Used
 
@@ -113,6 +114,7 @@ This makes workflows:
 - More intuitive for non-technical users
 
 It also mirrors real automation platforms used in enterprise environments.
+
 
 
 
